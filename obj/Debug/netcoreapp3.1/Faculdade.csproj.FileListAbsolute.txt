@@ -1,0 +1,13 @@
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.exe
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.deps.json
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.runtimeconfig.json
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.runtimeconfig.dev.json
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.dll
+C:\Users\Angelo\Documents\Faculdade\bin\Debug\netcoreapp3.1\Faculdade.pdb
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.csprojAssemblyReference.cache
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.AssemblyInfoInputs.cache
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.AssemblyInfo.cs
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.dll
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.pdb
+C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.genruntimeconfig.cache
