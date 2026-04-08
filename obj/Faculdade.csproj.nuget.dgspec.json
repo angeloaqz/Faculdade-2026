@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angelo\\Documents\\Faculdade\\Faculdade.csproj": {}
+    "C:\\Users\\Angelo\\OneDrive\\Documentos\\Faculdade\\Faculdade 2026\\Faculdade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angelo\\Documents\\Faculdade\\Faculdade.csproj": {
+    "C:\\Users\\Angelo\\OneDrive\\Documentos\\Faculdade\\Faculdade 2026\\Faculdade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angelo\\Documents\\Faculdade\\Faculdade.csproj",
+        "projectUniqueName": "C:\\Users\\Angelo\\OneDrive\\Documentos\\Faculdade\\Faculdade 2026\\Faculdade.csproj",
         "projectName": "Faculdade",
-        "projectPath": "C:\\Users\\Angelo\\Documents\\Faculdade\\Faculdade.csproj",
+        "projectPath": "C:\\Users\\Angelo\\OneDrive\\Documentos\\Faculdade\\Faculdade 2026\\Faculdade.csproj",
         "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angelo\\Documents\\Faculdade\\obj\\",
+        "outputPath": "C:\\Users\\Angelo\\OneDrive\\Documentos\\Faculdade\\Faculdade 2026\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -31,17 +32,25 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -50,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

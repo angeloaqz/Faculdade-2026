@@ -11,3 +11,10 @@ C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.csproj.Cor
 C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.dll
 C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.pdb
 C:\Users\Angelo\Documents\Faculdade\obj\Debug\netcoreapp3.1\Faculdade.genruntimeconfig.cache
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.AssemblyInfoInputs.cache
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.AssemblyInfo.cs
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.sourcelink.json
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.dll
+C:\Users\Angelo\OneDrive\Documentos\Faculdade\Faculdade 2026\obj\Debug\netcoreapp3.1\Faculdade.pdb
